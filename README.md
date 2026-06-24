@@ -53,11 +53,18 @@
 
 ## 📌 Featured Projects
 
-### 🏪 Stock Management System
-Inventory, sales, reports and cash management system developed with Spring Boot and MySQL.
-
 ### 🏃 Sports Performance Tracker
 Platform for athletes, coaches, physiotherapists and sports clubs.
+
+Features planned:
+- Athlete management
+- Physical assessments
+- Injury tracking
+- Training plans
+- Performance analytics
+- Club management
+
+**Project Status:** 🚧 In Development (MVP in progress)
 
 ### 💼 WorkLink
 Job board and bootcamp management platform developed as an academic project.
