@@ -92,7 +92,7 @@ Job board and bootcamp management platform developed as an academic project.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/gabriel-ramirez-297643261
-- 📧 Email: gabrielalesioramirez@gmail.com
+- 📧 Email: gabriel113_@outlook.com
 
 ---
 
